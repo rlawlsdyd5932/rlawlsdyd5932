@@ -1,16 +1,14 @@
-### Hi there 👋
+스마트폰(부모 클래스)
+삼성&애플(자식 클래스)
 
-<!--
-**rlawlsdyd5932/rlawlsdyd5932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+스마트폰(부모 클래스)
+기능(스마트폰 클래스에서 기능으로 오버라이딩한다)
+-스마트폰의 기능
+    -안면인식 (각 핸드폰의 안면인식 프로그램 작성)
+    -건강 모니터링 (각 핸드폰의 건강 모니터링 프로그램 작성)
+    
+가격(스마트폰 클래스에서 가격으로 오버라이딩한다.)
+-스마트폰의 가격
+    -삼성과 애플의 가격비교
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
